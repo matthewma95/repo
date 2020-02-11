@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class Ma_windChill {
 
 	public static void main(String[] args) 
 	{
